@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dunnavisal
-- 🌱 I’m currently learning Full Stack Web Development.
+- 🌱 I’m currently learning Full Stack Web Development
 - 📫 How to reach me dunnavisal1999a@gmail.com
 
 <!---
