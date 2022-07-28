@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **dunnavisal1999a@gmail.com**
 
-- ⚡ Fun fact **i am fast lerner**
+- ⚡ Fun fact **i am a fast lerner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
