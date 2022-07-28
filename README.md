@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dunnavisal&label=Profile%20views&color=0e75b6&style=flat" alt="dunnavisal" /> </p>
 
-<p align="left"> <a href="https://twitter.com/dunna_visal1999" target="blank"><img src="https://img.shields.io/twitter/follow/dunna_visal1999?logo=twitter&style=for-the-badge" alt="dunna_visal1999" /></a> </p>
-
 - 🌱 I’m currently learning **Full Stack Web Development**
 
 - 📫 How to reach me **dunnavisal1999a@gmail.com**
