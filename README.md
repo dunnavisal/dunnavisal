@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning **Full Stack Web Development**
 
 - 📫 How to reach me **dunnavisal1999a@gmail.com**
+- 📝 I regularly write articles on **https://medium.com/@dunnavisal1999a**
 
 - ⚡ Fun fact **i am a fast lerner**
 
