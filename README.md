@@ -1,23 +1,22 @@
 <h1 align="center">Hi 👋, I'm Dunna Visal</h1>
-<h3 align="center">Extremely motivated and passionate in whatever I choose to do. Strong interpersonal
- and communication skills and know how to handle and deal with different kinds of
- people and circumstances.</h3>
+<h3 align="center">Extremely motivated and passionate in whatever I choose to do. Strong interpersonal and communication skills and know how to handle and deal with different kinds of people and circumstances.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dunnavisal&label=Profile%20views&color=0e75b6&style=flat" alt="dunnavisal" /> </p>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 📫 How to reach me **dunnavisal1999a@gmail.com**
-- 📝 I regularly write articles on **https://medium.com/@dunnavisal1999a**
+- 📝 I regularly write articles on [https://medium.com/@dunnavisal](https://medium.com/@dunnavisal)
 
-- ⚡ Fun fact **i am a fast lerner**
+- 💬 Ask me about **javaScript,HTML,CSS,**
+
+- 📫 How to reach me **dunnavisal1999a@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dunna_visal1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dunna_visal1999" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/dunna-visal-696669243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dunna-visal-696669243" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/dunna_visal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dunna_visal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/in/dunna-visal-696669243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/dunna-visal-696669243" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/dunnavisal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dunnavisal" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/dunnavisal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dunnavisal" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dunna_visal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dunna_visal" height="30" width="40" /></a>
 </p>
 
