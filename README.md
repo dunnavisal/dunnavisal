@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dunna Visal</h1>
-<h3 align="center">Extremely motivated and passionate in whatever I choose to do. Strong interpersonal and communication skills and know how to handle and deal with different kinds of people and circumstance.</h3>
+<h3 align="center">Extremely motivated and passionate in whatever I choose to do. Strong interpersonal and communication skills and know how to handle and deal with different kinds of people and circumstances.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dunnavisal&label=Profile%20views&color=0e75b6&style=flat" alt="dunnavisal" /> </p>
 
