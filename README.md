@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 📝 I regularly write articles on [here (https://medium.com/@dunnavisal)](https://medium.com/@dunnavisal)
+- 📝 I regularly write articles on [here](https://medium.com/@dunnavisal)
 
 - 💬 Ask me about **javaScript,HTML,CSS,**
 
