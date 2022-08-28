@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [Here](https://medium.com/@dunnavisal)
 
-- 💬 Ask me about **javaScript, HTML, CSS**
+- 💬 Ask me about **javaScript, HTML, CS**
 
 - 📫 How to reach me **dunnavisal1999a@gmail.com**
 
