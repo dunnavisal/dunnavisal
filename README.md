@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dunna Visal</h1>
 <h3 align="center">Extremely motivated and passionate in whatever I choose to do. Strong interpersonal and communication skills and know how to handle and deal with different kinds of people and circumstances.</h3>
-- 🌱 I’m currently learning **AWS Development**
+- 🌱 I’m currently learning Amazon Web Services (AWS)
 
-- 💬 Ask me about **AWS Development,Java, HTML, CSS**
+- 💬 Ask me about Amazon Web Services (AWS), Java, HTML, CSS**
 
 - 📫 How to reach me **dunnavisal1999a@gmail.com**
 
